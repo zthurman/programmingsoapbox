@@ -29,12 +29,12 @@ annoying tendency to let the magic smoke out of the machine.
 When that happens, it's very hard to put it back.
 
 5. The K&R Chapter 5 Verse 1
-    
-    int x = 1, y = 2, z[10];
-    int *ip;
+```
+int x = 1, y = 2, z[10];
+int *ip;
 
-    ip = &x;
-    y = *ip;
-    *ip = 0;
-    ip = &z[0]; 
-
+ip = &x;
+y = *ip;
+*ip = 0;
+ip = &z[0]; 
+```
