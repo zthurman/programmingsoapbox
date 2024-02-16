@@ -1,16 +1,14 @@
 # Programming Soapbox
 
-This is a collection of stuff that I've learned over the 
-years. I find these reminders helpful. I hope that you do 
-too.
-
 1. Most of programming is centered around using methods,
 infrastructure and tooling that force you and your team
 to acknowledge all of the **implicit** assumptions *about* 
 the code, and then to somehow make those assumptions 
 **explicit** *in* the code.
 
-2. The machine doesn't care about your ego, only your logic.
+2. The Pragmatic Programmer 20th Anniversary Edition, Chapter 4
+
+`**Tip 36** You Can't Write Perfect Software`
 
 3. It's all just bits. Bits can't hurt you.
 
