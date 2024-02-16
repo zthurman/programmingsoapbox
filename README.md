@@ -5,7 +5,7 @@ years. I find these reminders helpful. I hope that you do
 too.
 
 1. Most of programming is centered around using methods,
-infrastructure and tooling that forces you and your team
+infrastructure and tooling that force you and your team
 to acknowledge all of the **implicit** assumptions *about* 
 the code, and then to somehow make those assumptions 
 **explicit** *in* the code.
