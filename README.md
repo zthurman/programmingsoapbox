@@ -24,7 +24,7 @@ the code, and then to somehow make those assumptions
 
 4. Don't touch the wires if you can help it. They have this
 annoying tendency to let the magic smoke out of the machine.
-When that happens, it's very hard to put it back.
+When the magic smoke gets out, it's very hard to put it back.
 
 5. The K&R Chapter 5 Verse 1
 ```
