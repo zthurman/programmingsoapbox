@@ -8,7 +8,7 @@ the code, and then to somehow make those assumptions
 
 2. The Pragmatic Programmer 20th Anniversary Edition, Chapter 4
 
-`**Tip 36** You Can't Write Perfect Software`
+    **Tip 36**: `You Can't Write Perfect Software`
 
 3. It's all just bits. Bits can't hurt you.
 
