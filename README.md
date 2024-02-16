@@ -28,6 +28,13 @@ the code, and then to somehow make those assumptions
 annoying tendency to let the magic smoke out of the machine.
 When that happens, it's very hard to put it back.
 
-5. Try to find a way to do automated testing, no matter how
-ridiculous it feels. You will often learn something valuable.
+5. The K&R Chapter 5 Verse 1
+    
+    int x = 1, y = 2, z[10];
+    int *ip;
+
+    ip = &x;
+    y = *ip;
+    *ip = 0;
+    ip = &z[0]; 
 
