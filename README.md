@@ -12,7 +12,7 @@ the code, and then to somehow make those assumptions
 
 3. It's all just bits. Bits can't hurt you.
 
-    1. Unless of course the bit that you just flubbed triggers an 
+    1. Unless of course, the bit that you just flubbed triggers an 
     output on a safety significant machine or subsystem that you 
     happen to be standing near. If that's the case, the bits might 
     just kill you. 
