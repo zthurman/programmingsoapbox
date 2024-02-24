@@ -30,3 +30,7 @@ confounding tendency to let the magic smoke out of the machine.
 When the magic smoke gets out, it's very hard to put it back.
 
 6. Laughing helps.
+
+7. Complexity for the sake of complexity is the only true sin when programming.
+
+8. If it ani't brkoe dno't fxi it.
