@@ -33,4 +33,4 @@ When the magic smoke gets out, it's very hard to put it back.
 
 7. Complexity for the sake of complexity is the only true sin when programming.
 
-8. If it ani't brkoe dno't fxi it.
+8. If it ani't brkoe, dno't fxi it.
