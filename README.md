@@ -25,12 +25,10 @@ y = *ip;
 ip = &z[0]; 
 ```
 
-5. Don't touch the wires if you can help it. They have this
-confounding tendency to let the magic smoke out of the machine.
-When the magic smoke gets out, it's very hard to put it back.
+5. Laughing helps.
 
-6. Laughing helps.
+6. Complexity for the sake of complexity is the only true sin when programming.
 
-7. Complexity for the sake of complexity is the only true sin when programming.
+7. Wyrd Sisters
 
-8. If it ani't brkoe, dno't fxi it.
+    `Only in our dreams are we free. The rest of the time we need wages.`
